@@ -1,0 +1,81 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBadgeAlert",
+      "LiTimer",
+      "LiSquareM",
+      "LiSquareCode",
+      "LiBrainCircuit"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "main/IA": {
+    "iconName": "LiComputer",
+    "iconColor": "#00ff00"
+  },
+  "main/IoT": {
+    "iconName": "LiMicrochip",
+    "iconColor": "#00ff00"
+  },
+  "main/Redes": {
+    "iconName": "LiWifi",
+    "iconColor": "#00ff00"
+  },
+  "Arquitetura de Computadores": {
+    "iconName": "LiComputer",
+    "iconColor": "#00ff2a"
+  },
+  "Circuitos Digitais": {
+    "iconName": "LiCircuitBoard",
+    "iconColor": "#00ff2a"
+  },
+  "Circuitos Elétricos-Eletrônicos": {
+    "iconName": "LiBrainCircuit",
+    "iconColor": "#00ff2a"
+  },
+  "Programação Básica": {
+    "iconName": "LiSquareCode",
+    "iconColor": "#00ff2a"
+  },
+  "Matemática e Fundamentos da Computação": {
+    "iconName": "LiSquareM",
+    "iconColor": "#00ff2a"
+  },
+  "Fundamentos em Microeletrônica": {
+    "iconName": "LiMicrochip",
+    "iconColor": "#00ff2a"
+  },
+  "Capacitação CI Expert - Conteúdo.md": {
+    "iconName": "LiTimer",
+    "iconColor": "#00ff2a"
+  },
+  "configs_theme.md": {
+    "iconName": "LiBadgeAlert",
+    "iconColor": "#00ff2a"
+  }
+}
