@@ -39,4 +39,10 @@ O numpy chama a função "arange" que define a quantidade total de elementos na 
 
 Igual conseguimos ver na imagem anterior.
 
+> Exemplo - Tensor de dimensão quatro
+
+```python
+tensor4d = np.arange(120).reshape(2, 3, 4, 5)
+```
+
 
