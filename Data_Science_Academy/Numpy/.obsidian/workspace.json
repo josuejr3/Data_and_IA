@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Numpy - Parte 3"
             }
+          },
+          {
+            "id": "5c700a9e5a0043df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numpy - Parte 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Numpy - Parte 4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +183,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "112f5503602a923f",
+  "active": "5c700a9e5a0043df",
   "lastOpenFiles": [
-    "Numpy - Parte 2.md",
+    "Imagens/imagem_teste.jpg",
     "Numpy - Parte 3.md",
+    "Numpy - Parte 4.md",
+    "Numpy Parte 4.ipynb",
+    "Numpy - Parte 2.md",
     "Introdução.md",
     "Numpy Parte 3.ipynb",
     "Conhecendo a Biblioteca.md",
@@ -186,7 +204,6 @@
     "Aulas C# Programação Orientada a Objetos/Orientação à Objetos.md",
     "ObjectOrientedProgramming/bin/Debug/ObjectOrientedProgramming.pdb",
     "ObjectOrientedProgramming/bin/Debug/ObjectOrientedProgramming.exe",
-    "ObjectOrientedProgramming/bin/Debug/ObjectOrientedProgramming.exe.config",
     "Aulão C#/1. Sumário.md",
     "Constantes.md",
     "Aulão C#/Sobre o C Sharp.md",
@@ -207,8 +224,6 @@
     "Curso Latex - Formatação de Textos.md",
     "Curso Latex - Conceitos.md",
     "Curso Latex - Pacotes.md",
-    "Sumário.md",
-    "Colorindo Textos.md",
     "Pasted image 20250523182430.png",
     "Pasted image 20250523182410.png",
     "Pasted image 20250523182258.png",
