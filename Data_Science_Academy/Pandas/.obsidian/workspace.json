@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "cf6d3d0af3d5cdd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d24469d4305c8ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eabfc36cd3a18a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pandas - Parte 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pandas - Parte 2"
+            }
+          },
+          {
+            "id": "55405c0931577ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pandas - Parte 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pandas - Parte 3"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dfe9c5f0bb19e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "52c68a17ace54dfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c8ba113f61a5c97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9fb3b014fa2a8eab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "3390268c3655e011",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a77b2ecf975abc89",
+    "type": "split",
+    "children": [
+      {
+        "id": "9391fec65ed00d47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a4845a4a2978e2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2ffca1018a00b623",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "48f02efb7f5b1bc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cc28db8782602436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "55405c0931577ad6",
+  "lastOpenFiles": [
+    "Pandas - Parte 2.md",
+    "Pandas - Parte 3.md",
+    "Codes/pandas_pt2.ipynb",
+    "Imagens",
+    "Imagens/OutPut.png",
+    "Codes/Dados_Com_Indice.csv",
+    "Codes/Dados.csv",
+    "Pandas - Parte 1.md",
+    "Codes/pandas_pt1.ipynb",
+    "Codes/par",
+    "Codes",
+    "Imagens/imagem_teste.jpg",
+    "Numpy - Parte 3.md",
+    "Numpy - Parte 4.md",
+    "Numpy Parte 4.ipynb",
+    "Numpy - Parte 2.md",
+    "Introdução.md",
+    "Numpy Parte 3.ipynb",
+    "Conhecendo a Biblioteca.md",
+    "Numpy Parte 2.ipynb",
+    "Imagens/Array Numpy.png",
+    "Aulão C#/Introdução aos códigos do C Sharp.md",
+    "Aulas C# Programação Orientada a Objetos/Orientação à Objetos.md",
+    "Aulão C#/1. Sumário.md",
+    "Constantes.md",
+    "Aulão C#/Sobre o C Sharp.md",
+    "Variáveis.md",
+    "Aulão C#/O que é o o .NET.md",
+    "Gerenciador de Projetos.png",
+    "Sem título 1.md",
+    "Curso Latex - Seções.md",
+    "Curso Latex - Bibliografia.md",
+    "Curso Latex - Formatação Avançada.md",
+    "Curso Latex - Matemática.md",
+    "Curso Latex - Tabelas.md",
+    "Curso Latex - Fechando o Documento.md",
+    "Curso Latex - ABNTex.md",
+    "Curso Latex - Imagens.md",
+    "files/Texto alinhado.png",
+    "Curso Latex - Parágrafos.md",
+    "Curso Latex - Formatação de Textos.md",
+    "Pasted image 20250523182430.png",
+    "Pasted image 20250523182410.png",
+    "Pasted image 20250523182258.png",
+    "Pasted image 20250523182249.png",
+    "Pasted image 20250523182159.png",
+    "main/Sem título.canvas"
+  ]
+}

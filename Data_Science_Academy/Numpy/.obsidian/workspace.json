@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numpy - Parte 3.md",
+                "file": "Numpy - Parte 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Numpy - Parte 3"
+              "title": "Numpy - Parte 2"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Numpy - Parte 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,16 +182,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5c700a9e5a0043df",
+  "active": "112f5503602a923f",
   "lastOpenFiles": [
-    "Imagens/imagem_teste.jpg",
-    "Numpy - Parte 3.md",
-    "Numpy - Parte 4.md",
-    "Numpy Parte 4.ipynb",
-    "Numpy - Parte 2.md",
-    "Introdução.md",
-    "Numpy Parte 3.ipynb",
     "Conhecendo a Biblioteca.md",
+    "Introdução.md",
+    "Numpy - Parte 3.md",
+    "Numpy - Parte 2.md",
+    "Numpy - Parte 4.md",
+    "Imagens/imagem_teste.jpg",
+    "Numpy Parte 4.ipynb",
+    "Numpy Parte 3.ipynb",
     "Numpy Parte 2.ipynb",
     "Numpy Introdução.ipynb",
     "Untitled.ipynb",
@@ -230,7 +229,6 @@
     "Pasted image 20250523182249.png",
     "Pasted image 20250523182159.png",
     "Pasted image 20250523182030.png",
-    "Pasted image 20250523181119.png",
     "main/Sem título.canvas"
   ]
 }
