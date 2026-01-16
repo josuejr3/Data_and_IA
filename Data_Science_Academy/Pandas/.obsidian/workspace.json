@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6d24469d4305c8ea",
+        "id": "04d66fe7548f48c4",
         "type": "tabs",
         "children": [
           {
-            "id": "9eabfc36cd3a18a1",
+            "id": "6d32d55cb23111c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pandas - Parte 2.md",
+                "file": "Pandas - Parte 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandas - Parte 2"
-            }
-          },
-          {
-            "id": "55405c0931577ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pandas - Parte 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pandas - Parte 3"
+              "title": "Pandas - Parte 5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +168,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "55405c0931577ad6",
+  "active": "6d32d55cb23111c7",
   "lastOpenFiles": [
+    "Pandas - Parte 5.md",
     "Pandas - Parte 2.md",
     "Pandas - Parte 3.md",
+    "Pandas - Parte 4.md",
     "Codes/pandas_pt2.ipynb",
     "Imagens",
     "Imagens/OutPut.png",
@@ -224,8 +211,6 @@
     "Curso Latex - ABNTex.md",
     "Curso Latex - Imagens.md",
     "files/Texto alinhado.png",
-    "Curso Latex - Parágrafos.md",
-    "Curso Latex - Formatação de Textos.md",
     "Pasted image 20250523182430.png",
     "Pasted image 20250523182410.png",
     "Pasted image 20250523182258.png",
