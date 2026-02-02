@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pandas - Parte 5.md",
+                "file": "Pandas - Parte 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandas - Parte 5"
+              "title": "Pandas - Parte 4"
             }
           }
         ]
@@ -171,15 +171,15 @@
   "active": "6d32d55cb23111c7",
   "lastOpenFiles": [
     "Pandas - Parte 5.md",
-    "Pandas - Parte 2.md",
-    "Pandas - Parte 3.md",
+    "Pandas - Parte 1.md",
     "Pandas - Parte 4.md",
+    "Pandas - Parte 3.md",
+    "Pandas - Parte 2.md",
     "Codes/pandas_pt2.ipynb",
     "Imagens",
     "Imagens/OutPut.png",
     "Codes/Dados_Com_Indice.csv",
     "Codes/Dados.csv",
-    "Pandas - Parte 1.md",
     "Codes/pandas_pt1.ipynb",
     "Codes/par",
     "Codes",
